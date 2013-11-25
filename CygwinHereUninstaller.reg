@@ -1,0 +1,5 @@
+REGEDIT4
+
+[-HKEY_CLASSES_ROOT\Directory\shell\CygwinHere]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\CygwinHere\command]
