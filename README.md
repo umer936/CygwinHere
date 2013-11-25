@@ -22,6 +22,7 @@ To use,
 5) Find any folder, right click it, and click "Cygwin Here" to open 
 
 
-Alternatively, you can download them and skip steps 1-3. 
 
 Questions/Comments? umer936+github@gmail.com
+
+Uninstaller - http://umer936.com/Cygwin/CygwinHereUninstall.reg 
