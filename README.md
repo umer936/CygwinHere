@@ -6,7 +6,7 @@ Registry edit to allow opening of Cygwin by right clicking, similar to Shift+RtC
 
 x32 = Cygwin x32-bit install - http://umer936.com/Cygwin/CygwinHerex32.reg
 
-x64 = Cygwin x64-bit install - http://umer936.com/Cygwin/CygwinHerex32.reg 
+x64 = Cygwin x64-bit install - http://umer936.com/Cygwin/CygwinHerex64.reg 
 
 
 To use, 
