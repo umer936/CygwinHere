@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\Directory\shell\CygwinHere]
+@="&Cygwin Here"
+
+[HKEY_CLASSES_ROOT\Directory\shell\CygwinHere\command]
+@="C:\\cygwin\\bin\\mintty.exe -i /Cygwin-Terminal.ico C:\\cygwin\\bin\\bash.exe  -l -c \"cd \\\"%V\\\" ; exec bash\""
