@@ -3,3 +3,7 @@ REGEDIT4
 [-HKEY_CLASSES_ROOT\Directory\shell\CygwinHere]
 
 [-HKEY_CLASSES_ROOT\Directory\shell\CygwinHere\command]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\CygwinHere]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\CygwinHere\command]
