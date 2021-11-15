@@ -8,6 +8,9 @@ x32 = Cygwin x32-bit install - http://umer936.com/Cygwin/CygwinHerex32.reg
 
 x64 = Cygwin x64-bit install - http://umer936.com/Cygwin/CygwinHerex64.reg 
 
+## Translations
+Vietnamese (by [tnhung2011](https://github.com/tnhung2011)) - [Download link](https://downgit.github.io/#/home?url=https://github.com/tnhung2011/CygwinHere/tree/translation/localization/Vietnamese)
+
 
 To use, 
 
@@ -25,4 +28,4 @@ To use,
 
 Questions/Comments? umer936+github@gmail.com
 
-Uninstaller - http://umer936.com/Cygwin/CygwinHereUninstall.reg 
+Uninstaller (both for translations and the original version) - http://umer936.com/Cygwin/CygwinHereUninstall.reg 
