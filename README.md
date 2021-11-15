@@ -12,7 +12,7 @@ x64 = Cygwin x64-bit install - http://umer936.com/Cygwin/CygwinHerex64.reg
 Vietnamese (by [tnhung2011](https://github.com/tnhung2011)) - [Download link](https://downgit.github.io/#/home?url=https://github.com/tnhung2011/CygwinHere/tree/translation/localization/Vietnamese)
 
 
-To use, 
+## How to use 
 
 1) Copy/paste the version desired to Notepad 
 
