@@ -25,7 +25,7 @@ Vietnamese (by [tnhung2011](https://github.com/tnhung2011)) - [Download link](ht
 5) Find any folder, right click it, and click "Cygwin Here" to open 
 
 
-
+------------
 Questions/Comments? umer936+github@gmail.com
 
 Uninstaller (both for translations and the original version) - http://umer936.com/Cygwin/CygwinHereUninstall.reg 
